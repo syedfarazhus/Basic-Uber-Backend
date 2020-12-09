@@ -1,0 +1,14 @@
+0 DriverRequest Amaranth 1,6 1
+0 DriverRequest Bergamot 4,3 1
+0 DriverRequest Crocus 7,13 1
+0 DriverRequest Dahlia 0,1 1
+0 DriverRequest Edelweiss 3,4 1
+0 DriverRequest Foxglove 8,5 1
+
+
+0 RiderRequest Almond 1,1 10,3 10
+5 RiderRequest Bisque 5,4 2,3 5
+10 RiderRequest Cerise 16,3 1,5 12
+15 RiderRequest Desert 3,7 4,3 5
+20 RiderRequest Eggshell 9,2 3,1 4
+25 RiderRequest Fallow 1,9 12,17 10
